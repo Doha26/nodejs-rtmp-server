@@ -1,5 +1,5 @@
 {
-  "name": "rtmp-server",
+  "name": "nodejs-rtmp-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
